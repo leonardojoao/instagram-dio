@@ -21,7 +21,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: start;
-    width: 60%;
+    width: 35%;
     height: 100vh;
 }
 
@@ -73,7 +73,7 @@ body {
 }
 
 .profile-photo img {
-    height: 6rem;
+    height: 7rem;
 }
 
 .instagram-login {
@@ -81,6 +81,7 @@ body {
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
+    margin-top: 1rem;
 }
 
 .instagram-logout {
